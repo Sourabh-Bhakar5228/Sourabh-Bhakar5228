@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sourabh-bhakar5228.github.io/sourabh-bhakar/](https://sourabh-bhakar5228.github.io/sourabh-bhakar/)
 
-- 💬 Ask me about **mern** and **Next Js 88
+- 💬 Ask me about **mern** and Next Js 
 
 - 📫 How to reach me **bhakarsoursbh@gmail.com**
 
