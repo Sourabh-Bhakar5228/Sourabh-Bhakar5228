@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Bhakar</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-<img align="right" alt="jaat" width="400px" src="![Uploading image.png…]()
-">
+<img align="right" alt="jaat" width="400px" src="https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" /> </p>
 
