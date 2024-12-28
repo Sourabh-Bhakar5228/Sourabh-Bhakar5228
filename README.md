@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **next js**
 
-- 👨‍💻 All of my projects are available at [https://sourabh-bhakar5228.github.io/sourabh-bhakar/](https://sourabh-bhakar5228.github.io/sourabh-bhakar/)
+- 👨‍💻 All of my projects are available at [https://sourabh-bhakar5228.github.io/sourabh-bhakar/] , https://sourabh-bhakar.vercel.app/(https://sourabh-bhakar5228.github.io/sourabh-bhakar/)
 
 - 💬 Ask me about **mern** and Next Js 
 
