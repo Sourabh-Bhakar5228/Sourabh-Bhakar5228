@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" /> </p>
 
-- 🔭 I’m currently working on **my interview tasks**
+- 🔭 I’m currently working on **Jaikvik technology noida-63**
 
 - 🌱 I’m currently learning **next js**
 
