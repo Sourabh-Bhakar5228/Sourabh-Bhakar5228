@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Bhakar</h1>
 <h3 align="center">🚀 MERN Stack | Frontend | Backend | Next.js | TypeScript Developer from India</h3>
 
-<img align="right" alt="mern stack" width="400" src="https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350" />
+<img align="right" alt="mern stack" width="400" src="https://leadproinfotech.com/wp-content/uploads/2025/01/mern-stack.png" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" />
