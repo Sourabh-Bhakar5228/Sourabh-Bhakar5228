@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" />
 </p>
 
-- 🔭 I’m currently working in **Noida, Uttar Pradesh**  
+- 🔭 I’m currently working in **Gurugram , Haryana, India **  
 - 🌱 I’m currently learning **Python**, **AWS**, **Docker**, and **Linux**  
 - 👨‍💻 Explore my portfolio at [sourabh-bhakar.vercel.app](https://sourabh-bhakar.vercel.app)  
 - 💬 Ask me about **MERN Stack**, **Next.js**, and **TypeScript**  
