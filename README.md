@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Bhakar</h1>
-<h3 align="center">🚀 MERN Stack | Frontend | Backend | Next.js | TypeScript Developer from India</h3>
+<h3 align="center">🚀 MERN Stack | Frontend | Backend | Next.js | TypeScript Developer | Python </h3>
 
 <img align="right" alt="mern stack" width="400" src="https://leadproinfotech.com/wp-content/uploads/2025/01/mern-stack.png" />
 
