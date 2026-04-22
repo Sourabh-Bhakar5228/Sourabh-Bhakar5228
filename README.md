@@ -76,7 +76,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/sourabh-bhakar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -101,15 +101,15 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-bhakar5228&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-bhakar5228&show_icons=true&locale=en&layout=compact" alt="sourabh-bhakar5228" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-bhakar5228&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-bhakar5228&show_icons=true&locale=en" alt="sourabh-bhakar5228" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-bhakar5228" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-bhakar5228" alt="sourabh-bhakar5228" />
 </p>
 
 ---
