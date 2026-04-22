@@ -9,7 +9,7 @@
       <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" />
     </td>
 <td align="right">
-  <a href="https://linkedin.com/in/sourabh.bhakar" target="_blank">
+  <a href="https://www.linkedin.com/in/sourabh-bhakar-b3bb3324b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
   &nbsp;
