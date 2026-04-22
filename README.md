@@ -3,9 +3,24 @@
 
 <img align="right" alt="mern stack" width="400" src="https://leadproinfotech.com/wp-content/uploads/2025/01/mern-stack.png" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=sourabh-bhakar5228&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-bhakar5228" />
+    </td>
+    <td align="right">
+      <a href="https://linkedin.com/in/sourabh-bhakar" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="25" />
+      </a>
+      <a href="https://www.facebook.com/sourabh.bhakar" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" width="25" />
+      </a>
+      <a href="https://www.instagram.com/sourabh_bhakar" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="25" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,22 +86,6 @@
 
 - 📊 **Admin Dashboard (TypeScript)**
   - Full auth system + scalable architecture
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sourabh-bhakar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/sourabh.bhakar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sourabh_bhakar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
