@@ -13,10 +13,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/sourabh.bhakar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="30"/>
-  </a>
-  &nbsp;
+  
   <a href="https://www.instagram.com/sourabh_bhakar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
   </a>
