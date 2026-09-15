@@ -12,7 +12,7 @@
   <a href="https://sourabh-bhakar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://www.linkedin.com/in/sourabh-bhakar-b3bb3324b/">
+  <a href="https://www.linkedin.com/in/sourabh-bhakar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:bhakarsoursbh@gmail.com">
